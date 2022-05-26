@@ -1,0 +1,38 @@
+body {
+    padding-top: 12%;
+    background-color: lightblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img.VCU {
+    width: 150px;
+}
+
+img.VT {
+    width: 150px;
+}
+
+section.contact-info {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 25%;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 3px solid rgb(0, 0, 0);
+    background-color: brown;
+    color: #fff9f9;
+}
+
+section {
+    border: 3px solid rgb(0, 0, 0);
+    padding-left: 2%;
+}
+
+img.github {
+    width: 30px;
+}
+img.linkedin {
+    width: 30px;
+}
